@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #2c60c1;
+}
+
+.navbar .navItems {
+  align-items: center;
+  display: flex;
+}
+
+.navbar li {
+  list-style-type: none;
+  display: inline;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding: 20%;
+
+}
+
+.socialMedia {
+  align-items: flex-end;
+}
